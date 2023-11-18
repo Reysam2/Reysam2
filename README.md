@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **samuelakongbota@yahoo.com**
+- 📫 How to reach me **<samuelakongbota@yahoo.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reysam2&show_icons=true&locale=en&layout=compact" alt="reysam2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reysam2&show_icons=true&locale=en" alt="reysam2" /></p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
